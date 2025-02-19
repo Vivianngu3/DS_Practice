@@ -1,5 +1,6 @@
 # OVERVIEW
 This is a self-guided practice project aimed at improving and showcasing my skills as a Data Analyst.
+**This is still undergoing revisions and implimentations**
 
 # StarCraft Player Ranking Conclusion
 
@@ -48,9 +49,8 @@ Focus on training techniques that enhance reaction speed and decision-making.
 4. Mastering Hotkeys: Assign critical commands to hotkeys for faster execution.
 5. Reducing Action Latency: Practice fluid gameplay to minimize delays between actions.
 
-## 4. Next Steps & Future Improvements
-1. Try more advanced Machine Learning Models (XGBoost, Neural Networks) to enhance accuracy. 
-2. Explore Real-Time In-Game Analysis to provide live coaching insights. 
-3. Use More Player Data (such as in-game decision-making patterns) for better predictions.
-4. By leveraging these insights, we can create a more engaging and balanced competitive gaming environment while helping players improve their skills strategically.
+## 4. Next Steps & Improvements
+1. Model Improvement techniques: recursive feature elimination, k-fold cross validation and hyperparameter optimization using GridSearchCV
+2. Testing advanced Machine Learning Models (XGBoost, Neural Networks) to enhance accuracy. 
+ 
 
