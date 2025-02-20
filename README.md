@@ -39,8 +39,6 @@ Improve matchmaking by incorporating key skill-based metrics into ranking algori
 ### For Players
 Prioritize improving APM, reaction time, and hotkey efficiency to climb ranks. Experience matters, but strategic play is more important than total hours played.
 
-### For Coaches
-Focus on training techniques that enhance reaction speed and decision-making.
 
 **Based on these findings, players looking to improve their rank should focus on:**
 1. Increasing APM: Train with practice drills to improve the speed of actions.
